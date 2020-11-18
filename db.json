@@ -22,6 +22,7 @@
     "lastname": "Hendriks",
     "initials": "J.",
     "location": {
+      "locationName": "Huisartsenpraktijk Bosboomstraat",
       "streetName": "Bosboomstraat",
       "houseNumber": "1",
       "houseNumberAddon": "G",
@@ -38,7 +39,7 @@
       "website": "https://www.praktijkhendriks.nl"
     }
   },
-  "receiver": {
+  "supplier": {
     "avatar": "meander_avatar.png",
     "logo": "meander_logo.png",
     "contact": {
