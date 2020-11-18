@@ -61,5 +61,17 @@
         "weekend": "08:00 tot 12:00"
       }
     }
-  }
+  },
+  "documents": [
+    {
+      "type": "Aanvraagformulier",
+      "date": "18-11-2020",
+      "time": "16:54"
+    },
+    {
+      "type": "Verwijsbrief",
+      "date": "18-11-2020",
+      "time": "12:21"
+    }
+  ]
 }
