@@ -3,6 +3,18 @@
     "firstname": "Reind",
     "lastname": "Dooyeweerd"
   },
+  "referralDetails": {
+    "referralNumber": "ZD-12345678",
+    "referralDate": "18-11-2020",
+    "referralType": "Cardiologie",
+    "referralProduct": "Consult bij cardioloog",
+    "referralDelay": "8 dagen",
+    "referralReason": "Pijn op de borst",
+    "applicationFormSendDate": "14-11-2020",
+    "applicationFormSendTime": "16:52",
+    "referralLetterSendDate": "14-11-2020",
+    "referralLetterSendTime": "16:21"
+  },
   "referrer": {
     "avatar": "dr.png",
     "title": "Huisarts",
