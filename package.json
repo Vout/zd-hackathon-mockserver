@@ -5,8 +5,7 @@
   "author": "Purvis",
   "private": true,
   "scripts": {
-    "start": "json-server api.json --port 1234",
-    "tiny": "json-server test-api.json --port 1234"
+    "start": "json-server api.json --host 0.0.0.0 --port 1234"
   },
   "dependencies": {
     "json-server": "^0.15.1"
