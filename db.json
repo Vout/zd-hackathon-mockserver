@@ -42,12 +42,15 @@
   "supplier": {
     "avatar": "supplier.png",
     "logo": "meander_logo.png",
+    "organizationName": "Meander Medisch Centrum",
+    "organizationType": "Zorgaanbieder",
     "contact": {
       "phone": "038 1234 56 78",
       "email": "praktijk-hendriks@hendriks.nl",
       "website": "https://www.praktijkhendriks.nl"
     },
     "location": {
+      "locationName": "Locatie Amersfoort-Zuid"
       "streetName": "Maatweg",
       "houseNumber": "3",
       "houseNumberAddon": "",
