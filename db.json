@@ -17,7 +17,7 @@
   },
   "referrer": {
     "avatar": "dr.png",
-    "title": "Huisarts",
+    "role": "Huisarts",
     "firstname": "Jan",
     "lastname": "Hendriks",
     "initials": "J.",
@@ -39,7 +39,8 @@
     }
   },
   "receiver": {
-    "avatar": "meander.png",
+    "avatar": "meander_avatar.png",
+    "logo": "meander_logo.png",
     "contact": {
       "phone": "038 1234 56 78",
       "email": "praktijk-hendriks@hendriks.nl",
