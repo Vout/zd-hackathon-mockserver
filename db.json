@@ -16,7 +16,7 @@
     "referralLetterSendTime": "16:21"
   },
   "referrer": {
-    "avatar": "dr.png",
+    "avatar": "gp.png",
     "role": "Huisarts",
     "firstname": "Jan",
     "lastname": "Hendriks",
@@ -40,7 +40,7 @@
     }
   },
   "supplier": {
-    "avatar": "meander_avatar.png",
+    "avatar": "supplier.png",
     "logo": "meander_logo.png",
     "contact": {
       "phone": "038 1234 56 78",
