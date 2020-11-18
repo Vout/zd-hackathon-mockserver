@@ -28,10 +28,20 @@
       "houseNumberAddon": "G",
       "zipcode": "3852 KE",
       "city": "Utrecht",
-      "openingHours": {
-        "weekdays": "09:00 tot 17:00",
-        "weekend": "09:00 tot 12:00"
-      }
+      "openingHours": [
+        {
+          "days": "Maandag t/m vrijdag",
+          "hours": "8:00 tot 17:00"
+        },
+        {
+          "days": "Weekend (Zaterdag, Zondag)",
+          "hours": "9:00 tot 12:00"
+        },
+        {
+          "days": "Maaandag- en Donderdavond",
+          "hours": "19:00 tot 21:30"
+        }
+      ]
     },
     "contact": {
       "phone": "038 3456 67 80",
@@ -56,10 +66,16 @@
       "houseNumberAddon": "",
       "zipcode": "3813 TZ",
       "city": "Amersfoort",
-      "openingHours": {
-        "weekdays": "08:00 tot 17:00",
-        "weekend": "08:00 tot 12:00"
-      }
+      "openingHours": [
+        {
+          "days": "Maandag t/m vrijdag",
+          "hours": "8:00 tot 17:00"
+        },
+        {
+          "days": "Weekend",
+          "hours": "8:00 tot 17:00"
+        }
+      ]
     }
   },
   "documents": [
