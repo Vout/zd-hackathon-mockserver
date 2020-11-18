@@ -1,6 +1,48 @@
 {
-  "person": {
+  "patient": {
     "firstname": "Reind",
     "lastname": "Dooyeweerd"
+  },
+  "referrer": {
+    "avatar": "dr.png",
+    "title": "Huisarts",
+    "firstname": "Jan",
+    "lastname": "Hendriks",
+    "initials": "J.",
+    "location": {
+      "streetName": "Bosboomstraat",
+      "houseNumber": "1",
+      "houseNumberAddon": "G",
+      "zipcode": "3852 KE",
+      "city": "Utrecht",
+      "openingHours": {
+        "weekdays": "09:00 tot 17:00",
+        "weekend": "09:00 tot 12:00"
+      }
+    },
+    "contact": {
+      "phone": "038 3456 67 80",
+      "email": "praktijk-hendriks@hendriks.nl",
+      "website": "https://www.praktijkhendriks.nl"
+    }
+  },
+  "receiver": {
+    "avatar": "meander.png",
+    "contact": {
+      "phone": "038 1234 56 78",
+      "email": "praktijk-hendriks@hendriks.nl",
+      "website": "https://www.praktijkhendriks.nl"
+    },
+    "location": {
+      "streetName": "Maatweg",
+      "houseNumber": "3",
+      "houseNumberAddon": "",
+      "zipcode": "3813 TZ",
+      "city": "Amersfoort",
+      "openingHours": {
+        "weekdays": "08:00 tot 17:00",
+        "weekend": "08:00 tot 12:00"
+      }
+    }
   }
 }
