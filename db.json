@@ -3,31 +3,33 @@
     "firstname": "Sonja",
     "lastname": "van Vorderen"
   },
-  "referralDetails": {
-    "referralNumber": "ZD-12345678",
-    "referralDate": "18-11-2020",
-    "referralType": "Cardiologie",
-    "referralProduct": "Consult bij cardioloog",
-    "referralDelay": "8 dagen",
-    "referralReason": "Pijn op de borst",
-    "applicationFormSendDate": "14-11-2020",
-    "applicationFormSendTime": "16:52",
-    "referralLetterSendDate": "14-11-2020",
-    "referralLetterSendTime": "16:21"
-  },
+  "referralDetails": {},
   "referrer": {
-    "avatar": "gp.png",
-    "role": "Huisarts",
-    "firstname": "Jan",
-    "lastname": "Hendriks",
-    "initials": "J.",
-    "location": {
+    "person": {
+      "avatar": "gp.png",
+      "role": "Huisarts",
+      "firstname": "Jan",
+      "lastname": "Hendriks",
+      "initials": "J."
+    },
+    "organization": {
+      "name": "",
+      "type": "Huisartsenpraktijk"
+    },
+    "organizationContact": {
+      "phone": "038 3456 678",
+      "email": "praktijk-hendriks@hendriks.nl",
+      "website": "https://www.praktijkhendriks.nl"
+    },
+    "organizationLocation": {
       "locationName": "Huisartsenpraktijk Bosboomstraat",
-      "streetName": "Bosboomstraat",
-      "houseNumber": "1",
-      "houseNumberAddon": "G",
-      "zipcode": "3852 KE",
-      "city": "Utrecht",
+      "address": {
+        "streetName": "Bosboomstraat",
+        "dwellingNumber": "1",
+        "dwellingNumberAddon": "G",
+        "postalCode": "3852 KE",
+        "city": "Utrecht"
+      },
       "openingHours": [
         {
           "days": "Maandag t/m vrijdag",
@@ -42,30 +44,28 @@
           "hours": "19:00 tot 21:30"
         }
       ]
-    },
-    "contact": {
-      "phone": "038 3456 67 80",
-      "email": "praktijk-hendriks@hendriks.nl",
-      "website": "https://www.praktijkhendriks.nl"
     }
   },
   "supplier": {
-    "avatar": "supplier.png",
-    "logo": "meander_logo.png",
-    "organizationName": "Meander Medisch Centrum",
-    "organizationType": "Zorgaanbieder",
-    "contact": {
-      "phone": "038 1234 56 78",
-      "email": "praktijk-hendriks@hendriks.nl",
-      "website": "https://www.praktijkhendriks.nl"
+    "person": {},
+    "organization": {
+      "name": "Meander Medisch Centrum",
+      "type": "Zorgaanbieder"
     },
-    "location": {
+    "organizationContact": {
+      "phone": "033 8505 050",
+      "email": "info@meandermc.nl",
+      "website": "https://www.meandermc.nl/"
+    },
+    "organizationLocation": {
       "locationName": "Locatie Amersfoort-Zuid",
-      "streetName": "Maatweg",
-      "houseNumber": "3",
-      "houseNumberAddon": "",
-      "zipcode": "3813 TZ",
-      "city": "Amersfoort",
+      "address": {
+        "streetName": "Maatweg",
+        "dwellingNumber": "3",
+        "dwellingNumberAddon": "",
+        "postalCode": "3813 TZ",
+        "city": "Amersfoort"
+      },
       "openingHours": [
         {
           "days": "Maandag t/m vrijdag",
