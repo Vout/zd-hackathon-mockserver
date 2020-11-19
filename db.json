@@ -60,8 +60,8 @@
     "organization": {
       "name": "Meander Medisch Centrum",
       "type": "Zorgaanbieder",
-      "avatar": "",
-      "logo": ""
+      "avatar": "supplier.png",
+      "logo": "meander_logo.png"
     },
     "organizationContact": {
       "phone": "033 8505 050",
