@@ -21,7 +21,9 @@
     },
     "organization": {
       "name": "Huisartsenpraktijk Hendriks",
-      "type": "Huisartsenpraktijk"
+      "type": "Huisartsenpraktijk",
+      "avatar": "",
+      "logo": ""
     },
     "organizationContact": {
       "phone": "038 3456 678",
@@ -57,7 +59,9 @@
     "person": {},
     "organization": {
       "name": "Meander Medisch Centrum",
-      "type": "Zorgaanbieder"
+      "type": "Zorgaanbieder",
+      "avatar": "",
+      "logo": ""
     },
     "organizationContact": {
       "phone": "033 8505 050",
