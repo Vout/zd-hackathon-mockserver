@@ -3,7 +3,14 @@
     "firstname": "Sonja",
     "lastname": "van Vorderen"
   },
-  "referralDetails": {},
+  "referralDetails": {
+    "zdNumber": "ZD-12345678",
+    "date": "18-11-2020",
+    "type": "Cardiologie",
+    "product": "Consult bij cardioloog",
+    "accessdelay": "8 dagen",
+    "reason": "Pijn op de borst"
+  },
   "referrer": {
     "person": {
       "avatar": "gp.png",
